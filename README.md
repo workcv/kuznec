@@ -1,0 +1,2 @@
+# kuznec
+Test rabotu kuznechik
